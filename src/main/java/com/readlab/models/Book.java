@@ -12,40 +12,7 @@ public class Book {
         this.book_author = book_author;
         this.book_genre = book_genre;
     }
-
-    public void demo1() {
-        System.out.println("A");
-        System.out.println("B");
-        System.out.println("C");
-        System.out.println("D");
-        System.out.println("E");
-        System.out.println("F");
-        System.out.println("G");
-        System.out.println("A");
-        System.out.println("B");
-        System.out.println("C");
-        System.out.println("D");
-        System.out.println("E");
-        System.out.println("F");
-        System.out.println("G");
-    }
-
-    public void demo2() {
-        System.out.println("A");
-        System.out.println("B");
-        System.out.println("C");
-        System.out.println("D");
-        System.out.println("E");
-        System.out.println("F");
-        System.out.println("G");
-        System.out.println("A");
-        System.out.println("B");
-        System.out.println("C");
-        System.out.println("D");
-        System.out.println("E");
-        System.out.println("F");
-        System.out.println("G");
-    }
+    
     
     // Method untuk menampilkan detail buku
     public void getBookDetails() {
