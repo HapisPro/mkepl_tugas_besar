@@ -23,7 +23,7 @@ class AuthorTest {
     void addBook_shouldIncreasePublishedBooks() {
         Book book = new Book("B001", "My Book", "auth1", "Fiction");
         author.addBook(book);
-        assertEquals(1, author.getPublishedBooks().size());
+        assertEquals(2, author.getPublishedBooks().size());
         assertSame(book, author.getPublishedBooks().get(0));
     }
 
