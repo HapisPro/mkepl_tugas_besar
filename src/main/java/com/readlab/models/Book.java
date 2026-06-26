@@ -13,6 +13,7 @@ public class Book {
         this.book_genre = book_genre;
     }
     
+    
     // Method untuk menampilkan detail buku
     public void getBookDetails() {
         System.out.println("Book ID: " + book_id);
