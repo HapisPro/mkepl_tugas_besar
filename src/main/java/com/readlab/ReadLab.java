@@ -48,7 +48,7 @@ public class ReadLab {
                     case 3 -> {
                         System.out.println("Terima kasih telah menggunakan ReadLab!");
                         scanner.close();
-                        return; // Keluar dari program
+                        return;
                     }
                     default -> System.out.println("Pilihan tidak valid. Coba lagi.");
                 }
