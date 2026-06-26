@@ -1,0 +1,17 @@
+com\readlab\models\Bookmark.class
+com\readlab\models\Note.class
+com\readlab\exceptions\InvalidUserException.class
+com\readlab\services\NoteService.class
+com\readlab\services\BookService.class
+com\readlab\services\UserService.class
+com\readlab\services\BookmarkService.class
+com\readlab\models\Author.class
+com\readlab\models\Book.class
+com\readlab\models\BukuPremium.class
+com\readlab\exceptions\BookNotFoundException.class
+com\readlab\utils\MenuUtils.class
+com\readlab\models\BukuGratis.class
+com\readlab\models\Payment.class
+com\readlab\models\Reader.class
+com\readlab\models\User.class
+com\readlab\ReadLab.class

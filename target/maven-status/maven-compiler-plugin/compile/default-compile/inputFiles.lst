@@ -1,0 +1,17 @@
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\exceptions\BookNotFoundException.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\exceptions\InvalidUserException.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\models\Author.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\models\Book.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\models\Bookmark.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\models\BukuGratis.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\models\BukuPremium.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\models\Note.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\models\Payment.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\models\Reader.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\models\User.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\ReadLab.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\services\BookmarkService.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\services\BookService.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\services\NoteService.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\services\UserService.java
+C:\Dev\Kuliah\DPBO\readlab\src\main\java\com\readlab\utils\MenuUtils.java

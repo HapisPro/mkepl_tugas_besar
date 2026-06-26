@@ -1,0 +1,13 @@
+com\readlab\models\BukuPremiumTest.class
+com\readlab\models\BookTest.class
+com\readlab\services\BookServiceTest.class
+com\readlab\services\UserServiceTest.class
+com\readlab\models\BukuGratisTest.class
+com\readlab\models\PaymentTest.class
+com\readlab\models\NoteTest.class
+com\readlab\models\AuthorTest.class
+com\readlab\models\BookmarkTest.class
+com\readlab\models\ReaderTest.class
+com\readlab\services\BookmarkServiceTest.class
+com\readlab\services\NoteServiceTest.class
+com\readlab\models\UserTest.class
