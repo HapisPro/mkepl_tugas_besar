@@ -321,7 +321,7 @@ public class MenuUtils {
                     case 2 -> {
                         section("Buku Saya");
                         if (author.getPublishedBooks().isEmpty()) {
-                            info("Anda belum publikasi buku.");
+                            info("Anda belum mempublikasi buku.");
                         } else {
                             for (Book book : author.getPublishedBooks()) {
                                 String badge = book instanceof BukuPremium ? c(MGT, "[Premium]")
@@ -332,7 +332,7 @@ public class MenuUtils {
                         }
                     }
                     case 3 -> {
-                        success("Logout berhasil.");
+                        success("Logout anda berhasil.");
                         return;
                     }
                     default -> err("Pilihan tidak valid. Coba lagi.");
