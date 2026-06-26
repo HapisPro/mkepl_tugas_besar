@@ -21,7 +21,7 @@ public class ReadLab {
             System.out.print("> ");
             try {
                 int choice = scanner.nextInt();
-                scanner.nextLine(); // Clear buffer
+                scanner.nextLine();
 
                 switch (choice) {
                     case 1 -> {
@@ -54,7 +54,7 @@ public class ReadLab {
                 }
             } catch (InputMismatchException e) {
                 System.err.println("Input tidak valid. Harap masukkan angka.");
-                scanner.nextLine(); // Clear buffer
+                scanner.nextLine();
             } catch (InvalidUserException e) {
                 System.err.println("Error: " + e.getMessage());
             } catch (Exception e) {
