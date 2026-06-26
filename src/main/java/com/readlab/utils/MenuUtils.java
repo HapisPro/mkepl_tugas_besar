@@ -9,11 +9,11 @@ import java.util.Scanner;
 
 public class MenuUtils {
     public static void printMainMenu() {
-        System.out.println("=========== [ReadLab] ===========");
+        System.out.println("========== [ReadLab] ==========");
         System.out.println("1. Register");
         System.out.println("2. Login");
         System.out.println("3. Keluar");
-        System.out.println("=================================");
+        System.out.println("===============================");
     }
 
     public static void readerMenu(Reader reader, Scanner scanner, BookService bookService, NoteService noteservice, BookmarkService bookmarkservice) {
