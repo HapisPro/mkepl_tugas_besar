@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class MenuUtils {
     public static void printMainMenu() {
         System.out.println("=========== [ReadLab] ===========");
-        System.out.println("1. Register");
+        System.out.println("1. Registerr");
         System.out.println("2. Login");
         System.out.println("3. Keluar");
         System.out.println("=================================");
