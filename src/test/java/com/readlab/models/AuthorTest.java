@@ -32,7 +32,8 @@ class AuthorTest {
         author.addBook(new Book("B001", "Book 1", "auth1", "Fiction"));
         author.addBook(new Book("B002", "Book 2", "auth1", "Non-Fiction"));
         author.addBook(new Book("B003", "Book 3", "auth1", "Science"));
-        assertEquals(3, author.getPublishedBooks().size());
+        author.addBook(new Book("B004", "Book 4", "auth1", "Fiction"));
+        assertEquals(4, author.getPublishedBooks().size());
     }
 
     @Test
