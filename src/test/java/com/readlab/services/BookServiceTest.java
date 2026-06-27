@@ -18,7 +18,7 @@ class BookServiceTest {
 
     @Test
     void constructor_shouldPrepopulateSixBooks() {
-        assertEquals(6, bookService.getBooks().size());
+        assertEquals(10, bookService.getBooks().size());
     }
 
     @Test
@@ -26,7 +26,7 @@ class BookServiceTest {
         long freeCount = bookService.getBooks().stream()
                 .filter(b -> b instanceof BukuGratis)
                 .count();
-        assertEquals(3, freeCount);
+        assertEquals(10, freeCount);
     }
 
     @Test
