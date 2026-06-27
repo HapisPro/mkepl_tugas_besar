@@ -22,7 +22,7 @@ public class Author extends User {
     @Override
     public void showMenu() {
         System.out.println("=========== [Menu Penulis] ===========");
-        System.out.println("1. Tambah bukuu");
+        System.out.println("1. Tambah buku baru");
         System.out.println("2. Lihat daftar buku saya");
         System.out.println("3. Logout");
         System.out.println("======================================");
